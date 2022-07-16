@@ -34,7 +34,7 @@ Note: The maps folder is ~250MB because of songs and images, so uploading it to 
  * Notes:
  * - All time-keeping is done is milliseconds unless stated otherwise
  * - The program is really long and complicated, I tried my best to comment things
- * - The planning document may help with understanding why I'm doing what I'm doing
+ * - ~~The planning document may help with understanding why I'm doing what I'm doing~~ **planning document is not included**
  * - Recommended to read OsuClasses first to get a better sense of how notes work
  * - Some maps have a "break" at the start where there are no notes, just wait a bit
  * - Enjoy!
