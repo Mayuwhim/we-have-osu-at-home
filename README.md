@@ -11,7 +11,7 @@ Also I have no clue how Git works so no gitignoring from me
 - You need Eclipse IDE for Java (not sure if other IDEs work, never tried)
 - Download the code
 - Move `osu`, `hsa2`, and `module-info.java` into your project `src` folder
-- Go to [here](https://drive.google.com/file/d/1A4CaXHLMPGsBx04BdwAf7blhe2FuL4WA/view?usp=sharing) to download maps, unzip into a folder called `osuYM`, and put it in your project folder (the folder `src` is in)
+- Go [here](https://drive.google.com/file/d/1A4CaXHLMPGsBx04BdwAf7blhe2FuL4WA/view?usp=sharing) to download maps, unzip into a folder called `osuYM`, and put it in your project folder (the folder `src` is in)
 Note: The maps folder is ~250MB because of songs and images, so uploading it to github was a no-no.
 - Run `OsuReader.java` in Eclipse
 
