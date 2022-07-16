@@ -1,11 +1,13 @@
 # wE hAvE OsU aT hOMe (by Mayuwhim)
 A really funny school project
 
-This is scuffed in so many ways (I even had to change some backgrounds lol), hence the "at home" deduction. I'm just uploading this because I'm kinda proud of it (pretty new to coding), don't expect anything further here.
+Basically, this is a bad version of the hit rhythm game osu!
+
+This is scuffed in so many ways (I even had to change some backgrounds lol), hence the "at home" deduction. I'm just uploading this because I'm kinda proud of it (pretty new to coding), don't expect anything further here. This is also my first GitHub upload which makes this extra scuffed.
 
 The entire game is in 2 files which probably breaks half a million convention rules, so brace yourselves
 
-Also I have no clue how Git works so no gitignoring from me
+Also I have no clue how Git works so no gitignoring here unfortunately
 
 # Installation
 - You need Eclipse IDE for Java (not sure if other IDEs work, never tried)
