@@ -3,6 +3,8 @@ A really funny school project
 
 This is scuffed in so many ways (I even had to change some backgrounds lol), hence the "at home" deduction. I'm just uploading this because I'm kinda proud of it (pretty new to coding), don't expect anything further here.
 
+The entire game is in 2 files which probably breaks half a million convention rules, so brace yourselves
+
 Also I have no clue how Git works so no gitignoring from me
 
 # Installation
@@ -13,7 +15,7 @@ Also I have no clue how Git works so no gitignoring from me
 Note: The maps folder is ~250MB because of songs and images, so uploading it to github was a no-no.
 - Run `OsuReader.java` in Eclipse
 
-# Notes (also in the program file):
+# Notes (also in the program file) (reminder this had to pass for a school project):
  * Written by Mayuwhim
  * July 15, 2022
  * osu!
