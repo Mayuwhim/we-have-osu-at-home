@@ -1,19 +1,20 @@
 # wE hAvE OsU aT hOMe (by Mayuwhim)
 A really funny school project
 
-Basically, this is a bad version of the hit rhythm game osu!
+Basically, this is a simualator of the hit rhythm game osu!
 
-This is scuffed in so many ways (I even had to change some backgrounds lol), hence the "at home" deduction. I'm just uploading this because I'm kinda proud of it (pretty new to coding), don't expect anything further here. This is also my first GitHub upload which makes this extra scuffed.
+This is scuffed in so many ways (I even had to change some backgrounds (if you know you know)), hence the "at home" deduction. I'm just uploading this because I'm kinda proud of it (pretty new to coding), don't expect anything further here. This is also my first GitHub upload! woo!
 
 The entire game is in 2 files which probably breaks half a million convention rules, so brace yourselves
 
-Also I have no clue how Git works so no gitignoring here unfortunately
+You can find images in the images folder!
+![image](https://raw.githubusercontent.com/Mayuwhim/we-have-osu-at-home/refs/heads/main/images/gameplay4.png)
 
 # Installation
-- You need Eclipse IDE for Java (not sure if other IDEs work, never tried)
+- You need Eclipse IDE for Java (this is what I used, unsure if other IDEs work)
 - Download the code
 - Move `osu`, `hsa2`, and `module-info.java` into your project `src` folder
-- Go [here](https://drive.google.com/file/d/15eqHXY9hrIGjIywWd_-On57bbmNNzXPK/view?usp=sharing) to download maps, unzip into a folder called `osuYM`, and put it in your project folder (the folder `src` is in)
+- Go [here](https://drive.google.com/file/d/1X8Y6LP4mFYbT9Dhe1vW9cIb8j1ZBuBXA/view?usp=sharing) to download maps, unzip into a folder called `osuYM`, and put it in your project folder (the folder `src` is in)
 Note: The maps folder is ~250MB because of songs and images, so uploading it to github was a no-no.
 - Run `OsuReader.java` in Eclipse
 
