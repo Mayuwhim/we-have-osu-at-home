@@ -1,11 +1,9 @@
 # wE hAvE OsU aT hOMe (by Mayuwhim)
 A really funny school project
 
-Basically, this is a simualator of the hit rhythm game osu!
+This is a simulator of the hit rhythm game osu!, where you click circles grouped in complex and challenging patterns to the beat of a song!
 
-This is scuffed in so many ways (I even had to change some backgrounds (if you know you know)), hence the "at home" deduction. I'm just uploading this because I'm kinda proud of it (pretty new to coding), don't expect anything further here. This is also my first GitHub upload! woo!
-
-The entire game is in 2 files which probably breaks half a million convention rules, so brace yourselves
+The program is scuffed in many ways (I even had to change some backgrounds (if you know you know)), hence the "at home" designation. I'm just uploading this because I'm kinda proud of it (pretty new to coding), don't expect anything further here. This is also my first GitHub upload! woo!
 
 You can find images in the images folder!
 ![image](https://raw.githubusercontent.com/Mayuwhim/we-have-osu-at-home/refs/heads/main/images/gameplay4.png)
@@ -14,8 +12,8 @@ You can find images in the images folder!
 - You need Eclipse IDE for Java (this is what I used, unsure if other IDEs work)
 - Download the code
 - Move `osu`, `hsa2`, and `module-info.java` into your project `src` folder
-- Go [here](https://drive.google.com/file/d/1X8Y6LP4mFYbT9Dhe1vW9cIb8j1ZBuBXA/view?usp=sharing) to download maps, unzip into a folder called `osuYM`, and put it in your project folder (the folder `src` is in)
-Note: The maps folder is ~250MB because of songs and images, so uploading it to github was a no-no.
+- Go [here (Google Drive)](https://drive.google.com/file/d/1X8Y6LP4mFYbT9Dhe1vW9cIb8j1ZBuBXA/view?usp=sharing) to download maps, unzip into a folder called `osuYM`, and put it in your project folder (the folder `src` is in)
+Note: The maps folder is ~250MB because of songs and images.
 - Run `OsuReader.java` in Eclipse
 
 # Notes (also in the program file) (reminder this had to pass for a school project):
